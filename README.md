@@ -7,3 +7,4 @@
 TYPE_DIRECT = 0;
 TYPE_GOOGLE = 1;
 TYPE_FACEBOOK = 2;
+	TruongNV1: Cái này chỉ nên lưu theo mã code.
